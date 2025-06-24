@@ -1,0 +1,10 @@
+IID FAMID Locus1 Locus2 Locus3
+Ind1 Pop1 a a a
+Ind2 Pop1 a a t
+Ind3 Pop1 a g t
+Ind4 Pop1 c a t
+Ind5 Pop2 a g t
+Ind6 Pop2 a g t
+Ind7 Pop2 a g t
+Ind8 Pop2 a a t
+anc PopAnc a g t
