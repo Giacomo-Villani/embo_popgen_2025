@@ -331,12 +331,12 @@ model.2D.grid.pop <- function(sample_sizes, nes, migration_rate, number_of_block
   # Write to file
   writeLines(lines, "DemographicModelSplitR.par")
   
-  exe <- ".\\fsc28.exe"
-  args <- c("-i", ".\\DemographicModelSplitR.par", "-x", "-s0", "-d", "-n", "1", "-q", "-G")
+  exe <- "fsc28"
+  args <- c("-i", "DemographicModelSplitR.par", "-x", "-s0", "-d", "-n", "1", "-q", "-G")
   # Execute
   system2(exe, args = args)
   
-  data.t <- read.table(file=paste(folder.fastSimcoal2,"\\DemographicModelSplitR\\DemographicModelSplitR_1_1.gen", sep=""), header = T);
+  data.t <- read.table(file=paste(folder.fastSimcoal2,"/DemographicModelSplitR/DemographicModelSplitR_1_1.gen", sep=""), header = T);
   
   # First four columns are snp info
   # haplotype matrix. Rows are haplotypes, columns are positions
@@ -423,7 +423,7 @@ ggplot(ma, aes(x=x, y=-y, color=model)) +
 # 8. Making a plink file
 # Goal: to understand how to manage plink files
 # Exercise:
-# Create a dataset with one of the models and store it in plink
+# Create a dataset with one of the models and store it in plink, this example is with THREE POPULATIONS!
 
 effective_population_size_1 <- 1000;
 effective_population_size_2 <- 1000;
