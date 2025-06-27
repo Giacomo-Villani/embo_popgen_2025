@@ -1,0 +1,56 @@
+==================================================================
+fastsimcoal started on 26/06/2025 at 15:55:48
+
+TMRCAs per non-recombining segment
+Locus	Segment_length	Data_Type	Time_(gen)	deme	Num_Mutations
+0	1	data unknown	1191.63	0	0
+1	1	data unknown	1153.33	0	0
+2	1	data unknown	1091.38	0	0
+3	1	data unknown	910.652	0	0
+4	1	data unknown	708.709	0	0
+5	1	data unknown	186.081	0	0
+6	1	data unknown	1710.88	0	0
+7	1	data unknown	1104.7	0	0
+8	1	data unknown	707.348	0	0
+9	1	data unknown	756.155	0	0
+10	1	data unknown	764.297	0	0
+11	1	data unknown	640.753	0	0
+12	1	data unknown	713.617	0	0
+13	1	data unknown	1069.57	0	0
+14	1	data unknown	660.547	0	0
+15	1	data unknown	758.129	0	0
+16	1	data unknown	727.453	0	0
+17	1	data unknown	869.116	0	0
+18	1	data unknown	887.289	0	0
+19	1	data unknown	829.088	0	0
+20	1	data unknown	1335.56	0	0
+21	1	data unknown	784.618	0	0
+22	1	data unknown	902.715	0	0
+23	1	data unknown	593.937	0	0
+24	1	data unknown	1676.77	0	0
+25	1	data unknown	651.113	0	0
+26	1	data unknown	539.526	0	0
+27	1	data unknown	771.934	0	0
+28	1	data unknown	965.112	0	0
+29	1	data unknown	308.037	0	0
+30	1	data unknown	534.387	0	0
+31	1	data unknown	282.784	0	0
+32	1	data unknown	1520.94	0	0
+33	1	data unknown	1745.16	0	0
+34	1	data unknown	1308.49	0	0
+35	1	data unknown	112.305	0	0
+36	1	data unknown	547.756	0	0
+37	1	data unknown	584.286	0	0
+38	1	data unknown	522.68	0	0
+39	1	data unknown	2042.97	0	0
+40	1	data unknown	261.04	0	0
+41	1	data unknown	568.664	0	0
+42	1	data unknown	904.64	0	0
+43	1	data unknown	984.31	0	0
+44	1	data unknown	915.874	0	0
+45	1	data unknown	770.754	0	0
+46	1	data unknown	717.491	0	0
+47	1	data unknown	516.834	0	0
+48	1	data unknown	670.507	0	0
+49	1	data unknown	603.513	0	0
+
